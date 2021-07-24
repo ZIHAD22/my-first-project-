@@ -1,0 +1,6 @@
+{
+    "editor.wordWrap": "on",
+    "files.autoSave": "onFocusChange",
+    "editor.fontFamily": "'CascadiaCode'",
+    "editor.fontLigatures": true,
+}

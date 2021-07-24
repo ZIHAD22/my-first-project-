@@ -1,0 +1,43 @@
+*{margin:0;padding:0;}
+.main_about{
+    width: 800px;
+    margin:auto;
+    margin-top:165px;
+
+}
+.about_wapper {
+    display:flex;
+    justify-content:space-between;
+    transition : 2s
+}
+.about_wapper:hover {
+    box-shadow: 3px 1px 14px 14px #777;
+}
+.pic_about{
+    width:450px;
+    margin-right: 10px;
+}
+.pic_about img{
+    width:450px;
+}
+.info_about{
+    width:340px;
+}
+.info_about h1{
+    margin-bottom: 15px;
+    font-family: arial;
+    margin-top: 5px;
+}
+.info_about p{
+    font-size: 17px;
+    font-family: arial;
+    font-weight: bold;
+    color: #666;
+}
+.info_about h1 span {
+    color: orangered;
+}
+.info_about p a {
+    text-decoration: none;
+    color: orangered;
+}
